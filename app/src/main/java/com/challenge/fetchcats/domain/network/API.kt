@@ -1,4 +1,4 @@
-package com.challenge.fetchcats.network
+package com.challenge.fetchcats.domain.network
 
 import com.challenge.fetchcats.DataResponse
 import retrofit2.Response

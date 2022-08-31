@@ -5,9 +5,9 @@ data class DataResponse(
 )
 
 data class Data(
-    val images: List<Image>
+    val images: List<Image>?
 )
 
 data class Image(
-    val link: String
+    val link: String?
 )

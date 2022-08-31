@@ -1,4 +1,4 @@
-package com.challenge.fetchcats.network
+package com.challenge.fetchcats.domain.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
