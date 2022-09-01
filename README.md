@@ -13,4 +13,4 @@ App desenvolvido para teste técnico de um processo seletivo.
 
 - **Koin** para injeção e controle de depedências;
 
-- **Coroutines para chamadas assíncronas**.
+- **Coroutines** para chamadas assíncronas.
